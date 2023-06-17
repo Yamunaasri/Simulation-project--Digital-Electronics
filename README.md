@@ -14,7 +14,6 @@ The NOR gate is a digital logic gate that implements logical NOR - it behaves ac
 ```
 F`= XY` + X`Z + YZ`
 
-
 F= X`Y`Z` + XYZ
 
 F=F``
