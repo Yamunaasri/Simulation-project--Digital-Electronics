@@ -11,7 +11,9 @@ The NOR gate is a digital logic gate that implements logical NOR - it behaves ac
 # LOGIC DIAGRAM
 ![Screenshot 2023-06-17 152200](https://github.com/Yamunaasri/Simulation-project--Digital-Electronics/assets/115707860/4bd01d98-5e44-40de-8ecf-eac4a6ee6886)
 
-
+F`= XY` + X`Z + YZ`
+F= X`Y`Z` + XYZ
+F=F``
 # NETLIST DIAGRAM
 ![Screenshot 2023-06-17 151700](https://github.com/Yamunaasri/Simulation-project--Digital-Electronics/assets/115707860/29858a22-c5c2-4e94-8818-92c6e1dd58c5)
 
